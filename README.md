@@ -16,4 +16,4 @@ Repository ini dibuat untuk memenuhi salah satu tugas Pemrograman Website Kelas 
 
 - [Source Code](https://github.com/zzuchairul/todolist-svelte)
 - [Power Point](https://docs.google.com/presentation/d/1EfMXx1XyrNaPF8Nf9atrJ39bztrZjo3n)
-- [Youtube](https://youtu.be/UcNCBfL6gZQ)
+- [Youtube](https://youtu.be/a3ftYK4D_iA)
