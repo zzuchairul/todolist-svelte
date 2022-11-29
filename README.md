@@ -1,6 +1,6 @@
 ## Kelompok Svelte
 
-Repository ini dibuat untuk memenuhi salah satu tugas Pemrograman Website Kelas A yang dibimbing oleh Pak Ais Prayogi, ST.,M.Eng.
+Repository ini dibuat untuk memenuhi salah satu tugas Pemrograman Website Kelas A yang dibimbing oleh Pak A. Ais Prayogi Alimuddin, S.T., M.Eng.
 
 ### Anggota:
 
